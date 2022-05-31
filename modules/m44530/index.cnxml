@@ -1,0 +1,87 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Restoring The Rear Axle</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m44530</md:content-id>
+  <md:title>Restoring The Rear Axle</md:title>
+  <md:abstract/>
+  <md:uuid>5369e827-f5e2-4ff4-9ce0-ad7f8f5d7196</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-id1172018108881">The rear live axle for the Series 4 Lotus Seven was sourced from the Ford Escort. </para>
+    <section id="import-auto-id1172018663088"><title>Disassembly </title><para id="import-auto-id1172018647034">As removed from the car (<link target-id="import-auto-id1172022195590"/>), the axle rotates freely, and the hand brake/rear brakes appear to activate easily. However, given the total restoration of the car, it is a chance to rebuild the axle in particular the replacement of the bearings. </para><figure id="import-auto-id1172022195590"><media id="import-auto-id1172023326790" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-c2a3.jpg" width="300" print-width="2.25in"/>
+        </media>
+      <caption>The rear axle after removal from the car. </caption></figure><para id="import-auto-id1172018635603">The first task is to drain the majority of the oil from the axle. The drain plug is positioned at the rear of the differential housing (<link target-id="import-auto-id1172039542526"/>). Once the majority of the oil is drained the hubs and shafts can be removed. Placing the axle on a suitable bench facilitates work. </para><figure id="import-auto-id1172039542526"><media id="import-auto-id1172019144306" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-1b6b.jpg" width="400" print-width="3in"/>
+        </media>
+      <caption>The drain plug is on the lower right hand side of the differential housing. </caption></figure><para id="import-auto-id1172029995786">Removal of the lug nuts and the retaining screw (<link target-id="import-auto-id1172050225887"/>) allows for the drum to be removed. In the present case dirt and rust meant that the drum had to be loosened using a large screwdriver (<link target-id="import-auto-id1172064865238"/>); however, once loose, the drum is removed by sliding off the studs (<link target-id="import-auto-id1172039098731"/>). The insides of the drum show no significant wear, but a large quantity of brake shoe dust is present, that will need to be cleaned (<link target-id="import-auto-id1172032763882"/>). </para><figure id="import-auto-id1172050225887"><media id="import-auto-id1172030097197" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics3-484a.jpg" width="400" print-width="3in"/>
+        </media>
+      <caption>Close-up of the right hand drum showing the retaining screw (arrowed). </caption></figure><figure id="import-auto-id1172064865238"><media id="import-auto-id1172062843836" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics4-e453.jpg" width="300" print-width="2.25in"/>
+        </media>
+      <caption>Loosening of the drum. </caption></figure><figure id="import-auto-id1172039098731"><media id="import-auto-id1172040613673" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics5-2d55.jpg" width="300" print-width="2.25in"/>
+        </media>
+      <caption>Removal of the drum. </caption></figure><figure id="import-auto-id1172032763882"><media id="import-auto-id1172066551292" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics6-3839.jpg" width="300" print-width="2.25in"/>
+        </media>
+      <caption>Inside of the drum showing the brake surface and the residual brake shoe dust.</caption></figure><para id="import-auto-id1172032659192">With the drum removed the state of the brake shoes can be determined, as well as if there are any leaks of the brake slave cylinder (<link target-id="import-auto-id1172018656804"/> and <link target-id="import-auto-id1172020243474"/>). </para><figure id="import-auto-id1172018656804"><media id="import-auto-id1172033778697" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics7-49d9.jpg" width="400" print-width="3in"/>
+        </media>
+      <caption>Inside of the rear hub showing the brake shoes and the slave cylinder. </caption></figure><figure id="import-auto-id1172020243474"><media id="import-auto-id1172039091250" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics8-99cc.jpg" width="300" print-width="2.25in"/>
+        </media>
+      <caption>Inside of the rear hub showing the retaining clips for the brake shoes (A) and access holes to the retaining bolts for the shafts (B). </caption></figure><para id="import-auto-id1172042215651">To remove the brake shoes, the pin of the retainer is twisted until it lines up with the slot in the washers (<link target-id="import-auto-id1172018656804"/> and <link target-id="import-auto-id1172020243474"/>). The outer retaining washer, along with the tensioning spring, and an inner washer are then removed (<link target-id="import-auto-id1172039136525"/>). The brake shoes can then be pulled out of the hub. It is easier to remove both brake shoes along with the tensioning springs (<link target-id="import-auto-id1172018130198"/> and <link target-id="import-auto-id1172023002638"/>), rather than trying to disengage the springs first. The brake shoes along with the tension springs are shown in <link target-id="import-auto-id1172018107222"/>. </para><figure id="import-auto-id1172039136525"><media id="import-auto-id1172029507779" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics9-43b3.jpg" width="400" print-width="3in"/>
+        </media>
+      <caption>The brake shoe locating pin after removal of the retaining washers and spring. </caption></figure><figure id="import-auto-id1172018130198"><media id="import-auto-id1172069222084" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics10-d69b.jpg" width="300" print-width="2.25in"/>
+        </media>
+      <caption>The shorter brake shoe tension spring. </caption></figure><figure id="import-auto-id1172023002638"><media id="import-auto-id1172022120583" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics11-e129.jpg" width="300" print-width="2.25in"/>
+        </media>
+      <caption>The longer brake shoe tension spring shown behind the brake slave cylinder. </caption></figure><figure id="import-auto-id1172018107222"><media id="import-auto-id1172061583585" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics12-c9c5.jpg" width="300" print-width="2.25in"/>
+        </media>
+      <caption>The two brake shoes with the two tension springs after removal from the drum. </caption></figure><para id="import-auto-id1172025086314">The rear brakes are activated both pneumatically (foot brake) and mechanically (hand brake). To remove the brake slave cylinder, first disconnect the pneumatic line, and then the self-tensioner ratchet (<link target-id="import-auto-id1172023002638"/>). With the hand brake lever disconnected (<link target-id="import-auto-id1172016398419"/>) the rubber boot/dust cover is removed from the inboard side of the drum. With the rubber cover removed the two retaining clips (<link target-id="import-auto-id1172024307623"/>) can be slid out of the way and the slave cylinder and its associated lever can be removed. </para>
+
+<figure id="import-auto-id1172016398419"><media id="import-auto-id1172018635014" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics14-575e.jpg" width="300" print-width="2.25in"/>
+        </media>
+      <caption>The hand brake connection to the rear brake slave cylinders. </caption></figure><figure id="import-auto-id1172024307623"><media id="import-auto-id1172020950795" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics13-25e0.jpg" width="400" print-width="3in"/>
+        </media>
+      <caption>The two retaining clips that hold the slave cylinder into the drum. </caption></figure>
+
+
+
+<para id="import-auto-id1172051632882">By rotating the hub, the four retaining bolts for the backing plate can be removed two at a time, by lining up the bolt heads with the holes in the hubs (<link target-id="import-auto-id1172020243474"/>). With the bolts removed, the half shaft may be pulled free. Because the bearings are press fit items this may require the use of a puller (<link target-id="import-auto-id1172025088401"/>). In the present case, the bearings were rusted in place and significant force was needed. The half shafts are 22 spline (<link target-id="import-auto-id117202508840X"/>). 
+
+
+
+</para><figure id="import-auto-id1172025088401"><media id="import-auto-id1172051018021" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics15-3bd7.jpg" width="400" print-width="3in"/>
+        </media>
+      <caption>Demonstrating the attachment of a puller to the hub to facilitate removal of the half-shafts. </caption></figure>
+
+
+<figure id="import-auto-id117202508840X"><media id="import-auto-id117205101802X" alt="">
+          <image mime-type="image/jpg" src="../../media/rear axle image.jpg" width="400" print-width="3in"/>
+        </media>
+      <caption>Image of a half-shaft removed from the axle showing the splined end (Copyright: Ivan Samila). </caption></figure>
+
+</section><section id="import-auto-id5233994">
+      <title>Cleaning, painting, and rebuilding</title>
+      <para id="import-auto-id1172030662936">Replacement hub and nose bearings were obtained from Redline Components (Caterham, UK), while the axle casing was rebuilt by Lucas Racing and Restoration (Houston, TX). The old hub bearings were removed from the axle shafts, and replaced with the new bearings. </para>
+    </section>
+    <section id="import-auto-id1172033641473">
+      <title>Resources</title>
+      <list id="import-auto-id1172018646583" list-type="bulleted">
+        <item>Redline Components, Ltd. Timber Hall, 19 Timber Lane, Caterham, Surrey, CR3 6LZ, UK. Tel: +44 (0)1883 346515. <link url="http://www.redlinecomponents.co.uk/"><emphasis effect="underline">www.redlinecomponents.co.uk</emphasis></link>. </item>
+        <item>Lucas Racing and Restoration, 10030 Talley Lane, Houston, Texas 77041, USA Tel: +1 713 462 006. <link url="http://www.lucasracinginc.com/"><emphasis effect="underline">www.lucasracinginc.com</emphasis></link>. </item>
+      </list>
+    </section>
+  </content>
+</document>

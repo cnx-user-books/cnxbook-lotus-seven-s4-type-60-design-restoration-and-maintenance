@@ -1,0 +1,574 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Design Analysis</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m37138</md:content-id>
+  <md:title>Design Analysis</md:title>
+  <md:abstract/>
+  <md:uuid>1f51a8b5-b1ab-400a-8361-a824cb3650ae</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1169762168284">The design target of the Lotus Seven S4 (Type 60) was to aimed at meeting several requirements: </para>
+    <list id="id1169743980041" list-type="bulleted">
+      <item>Lower cost of production, in particular the chassis and the hand beaten aluminum panels. </item>
+      <item>Reduce the time of manufacture from the 12 hours for the Series 3. </item>
+      <item>Find a market to a wider owner base with improved driver comfort and weather protection. </item>
+      <item>Compete with sports cars from major manufacturers, such as MG Midget and Triumph Spitfire</item>
+      <item>Provide a first step on the ladder of Lotus ownership. </item>
+      <item>Take advantage of the 1970’s “beach buggy” craze. </item>
+    </list>
+    <para id="id3961261">The success of the design of the Seven S4, and the choice of various components, should be considered with regard to these goals. As such the S4 was a rather clever piece of design that largely overcame the cost problems of the Seven S3. </para>
+    <section id="id3944797"><title>Chassis and body</title><para id="id4231986">Although the Peter Lucas designed chassis of the Type 60 Seven S4 is basically a mils steel tubular frame design, it is significantly simplified as compared to the proceeding Seven models. Using steel square upper and lower side tubes with triangulation and cross members with square steel tubes, the main chassis was simple in design. A rear frame was made from round tubular steel. The upper rear chassis doubled as the attachment point for the 7<sup>1</sup>/<sub>2</sub> gallon steel fuel tank, the seat belts, and the body to the chassis. </para><para id="id1169750408499">With the elimination of much of the triangulation used in the S2 and S3 models, the rigidity of the S4 was dependent on the presence of two welded side panels made of sheet steel. Further simplification and strength was provided by the front box section being made of folded steel rather than tubular in structure. This followed the fashion of the Lotus Elan and Europa models. A folded steel bulkhead panel was used in place of the usual tubular support. As with the previous Sevens, Arch Motors fabricated the majority of chassis, although Griston Engineering produced some when Arch was too busy. This may account for the "GE-###" numbers stamped into some chassis. </para><para id="id3988820">The car’s overall rigidity was also enhanced by the attachment of the body (<link target-id="id1169759232770"/>). Instead of the old stressed aluminum bodywork riveted to chassis that took many hours of skilled work to produce, the Series 4 used an Alan Barrett designed fiberglass body, consisting of four components: tub, bonnet, and two front wings. </para>
+
+      <figure id="id1169759232770">
+        <media id="id1169759232770_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-983f.jpg" id="id1169759232770__onlineimage" width="400" print-width="4in"/>
+        </media>
+<caption>A cut-away drawing of the Twin Cam version of the Seven S4 showing the chassis and body components (Motor magazine). </caption>
+      </figure>
+
+
+
+      <para id="id1169744106196">The main tub comprised the boot, rear wings, interior, dash, and scuttle. The interior incorporated the floor and molding for the seat instillation. The rear wings were much bulkier than on previous Sevens and extended further back. The main tub also incorporated moldings for the spare wheel bracket and the rear lights. </para>
+
+      <para id="id861838">The body is attached to the chassis by six sets of mounting bolts. In typical Lotus fashion many of the bolts serve multiple purposes. For example, the bolts that attach the body at the upper chassis rails are also used to locate the windscreen frames. The rear most chassis/body attachments  are also used for the fuel tank and the seat belts, while the seat belts (or harnesses) are attached through the lower body and chassis. Finally, the rearmost chassis-to-body mounting is also used for the attachment of the upper trailing arm to the rear suspension. </para><para id="id1169746471910">There were several generations of bonnet used. Initially two were supplied depending on the choice of engine. Lotus Twin Cam powered cars had a flat bonnet with a bulge on the left hand side (<link target-id="id1169742744359"/>) to accommodate the twin Weber carburetors and the associated air box (<link target-id="id1169759232770"/>). Cars fitted with the Ford 1300 cc or 1600 cc crossflow Kent motors used a single down draft Weber carburetor, and their bonnets needed a bulge on top for clearance of the air filter (<link target-id="id4348221"/>). Later on a generic bonnet was designed that allowed either type of engine to be used. </para>
+
+      <figure id="id1169742744359"><media id="id1169742744359_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics4-b2a4.jpg" id="id1169742744359__onlineimage" width="400" print-width="3in"/>
+        </media>
+
+      <caption>A later left hand drive S4 (designated by the front indicator lights integrated into the front wings) fitted with a Lotus Twin Cam as evidenced from the lack of a bulge on top of the bonnet. Unusually, the steel chassis side panels are body colored rather than being painted black. </caption></figure><figure id="id4348221"><media id="id4348221_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics5-b1b4.jpg" id="id4348221__onlineimage" width="400" print-width="3in"/>
+          </media>
+
+        <caption>A later model right hand drive Ford 1600 GT crossflow powered S4 with the front indicator lights integrated with the front wings and a bonnet bulge to clear the downdraft Weber’s air filter. </caption></figure><para id="id1169744344512">While the Series 4 Seven’s front wings were of the clamshell type first seen on the Seven America, as opposed to the cycle wing style favored by the Series 1 and 2 cars, the front wings extended all the way to the rear. The advantage of this design was that the passenger on right hand drive cars (see <link target-id="id1169742744359"/>) or the driver on left hand cars (see <link target-id="id4348221"/>) did not risk burning their ankles on the hot exhaust while entering or exiting the car. The front wings were attached via bolts to the steel side panels. Support for the wings was by a curved steel stay. </para>
+
+
+      <para id="id1169742607742">The body panels were originally made from self-colored (pigmented) resin fiberglass composite. The color pigment was mixed with the gel coat. While this resulted in a simple finish it did limit the available colors and meant that many S4 Sevens were (or have been) repainted. The original colors included: white, red, light blue, yellow, bright orange, and the very seventies lime green. It should be noted that the self-coloring route predated the use of the technique in the Lotus Esprit of 1976. </para><para id="id1169742607746">The overall look of the Alan Barrett designed body was a cross between the traditional seven look and the type of beach buggy that was in vogue in the 1970’s. Traditionalist bemoaned that the Seven had gone soft. However, one positive result of the new body was that the truly horrible aerodynamic efficiency of the Seven was improved. For example, the rear wings (fenders) were elongated giving a more egg-shape profile. The Series 2 and 3 Sevens (and the subsequent Caterham derivatives) are among the cars with the highest drag coefficients (C<sub>D</sub> = 0.6). To put this in perspective, a family saloon routinely achieves a C<sub>D</sub> of 0.3. While exact numbers are not known for the S4 it is considered a significant step in the right direction. </para>
+    </section>
+    <section id="id1169742894056">
+      <title>The suspension and steering</title>
+      <section id="id1169744845900"><title>The front suspension</title><para id="id3776775">The front suspension of the Seven S4 uses the links, anti-roll (sway) bar, and bushes from the Lotus Europa. This had two advantages: </para><list id="id1169752883995" list-type="enumerated" number-style="arabic">
+          <item>The parts were cheaper and readily available in the factory parts bin.</item>
+          <item>Abandoning the Lotus 12 type front suspension (in which the upper wishbone was actually comprised of a single top link and the anti-roll bar) meant that the Seven had a true double wishbone front suspension for the first time. </item>
+        </list>
+        <para id="id1169761306772">The uprights, also used in the Europa are originally Triumph in origin, as used in the Herald and Spitfire. The brake disks and calipers are also Triumph, but the hubs are of Ford origin and have a 4<sup>1</sup>/<sub>4</sub>” stud pitch matching the Ford sourced rear axle. <link target-id="id4477173"/> lists a summary of the nut and bolts used in the front suspension of the Lotus Seven S4. </para><table id="id4477173" summary="Selected list of nut and bolts used (in one side) the front suspension of the Lotus Seven S4.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Application</emphasis></entry>
+                <entry><emphasis effect="bold">Size</emphasis></entry>
+              </row>
+              <row>
+                <entry>Upper wishbones, anti-roll (sway) bar link, and upper shock (damper) to chassis</entry>
+                <entry><sup>1</sup>/<sub>2</sub>” nyloc on threaded pivot pin</entry>
+              </row>
+              <row>
+                <entry>Lower wishbones to chassis</entry>
+                <entry><sup>1</sup>/<sub>2</sub>” nyloc </entry>
+              </row>
+              <row>
+                <entry>Lower wishbones to lower shock (damper)</entry>
+                <entry><sup>1</sup>/<sub>2</sub>” x 2<sup>1</sup>/<sub>2</sub>” &amp; nyloc</entry>
+              </row>
+              <row>
+                <entry>Lower wishbones to trunnion</entry>
+                <entry><sup>7</sup>/<sub>16</sub>” x 2<sup>3</sup>/<sub>4</sub>” &amp; nyloc</entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>Selected list of nut and bolts used (in one side) the front suspension of the Lotus Seven S4. </caption>
+</table>
+        
+      </section>
+      <section id="id3702959"><title>The rear suspension</title><para id="id3966452">One of the drawbacks of the Series 3 Lotus Seven was the design of the rear suspension. Although effective, the A-arm location of the rear axle in the S3 was a weakness that led to several failures (especially cracked differentials) and required the axle to be significantly reinforced. In order to overcome this Peter Lucas designed a much simpler system for the Series 4. The ends of the Ford Escort live axle were located by leading (lower) and trailing (upper) radius arms of the Watts linkage type, while the location of axle was achieved with an axle-locating link attached to the left hand side lower radius arm. The lower radius arms were mounted on big rubber bushes to compensate for the conflicted geometry as a result of bumps that is inherent on this geometry. Without the bushings the axle would act as an anti-roll (sway) bar. In this regard it was only partially successful since the inside wheel of the S4 is known to lift off the ground under hard cornering. <link target-id=" id1169744685404"/> lists a summary of the nut and bolts used in the rear suspension of the Seven S4. The rear axle was given a 3.77:1 final drive ratio. </para><table id="id1169744685404" summary="List of nut and bolts used for the rear suspension of the Lotus Seven S4.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Application</emphasis></entry>
+                <entry><emphasis effect="bold">Size</emphasis></entry>
+              </row>
+              <row>
+                <entry>Lower radius arm to bushing</entry>
+                <entry><sup>7</sup>/<sub>16</sub>” x 3”</entry>
+              </row>
+              <row>
+                <entry>Lower radius arm to axle</entry>
+                <entry><sup>1</sup>/<sub>2</sub>” x 5”</entry>
+              </row>
+              <row>
+                <entry>Axle locating link to bushing</entry>
+                <entry><sup>7</sup>/<sub>16</sub>” x 3”</entry>
+              </row>
+              <row>
+                <entry>Axle locating link to axle</entry>
+                <entry><sup>1</sup>/<sub>2</sub>” x 5”</entry>
+              </row>
+              <row>
+                <entry>Axle locating link to center chassis mounting</entry>
+                <entry><sup>1</sup>/<sub>2</sub>” x 5”</entry>
+              </row>
+              <row>
+                <entry>Upper radius arm to chassis</entry>
+                <entry><sup>1</sup>/<sub>2</sub>” x 4” (per side)</entry>
+              </row>
+              <row>
+                <entry>Upper radius arm to axle</entry>
+                <entry><sup>1</sup>/<sub>2</sub>” x 2<sup>3</sup>/<sub>4</sub>” (per side)</entry>
+              </row>
+              <row>
+                <entry>Shock (damper) to axle </entry>
+                <entry><sup>1</sup>/<sub>2</sub>” x 2<sup>3</sup>/<sub>4</sub>” (per side)</entry>
+              </row>
+              <row>
+                <entry>Shock (damper) to chassis</entry>
+                <entry><sup>1</sup>/<sub>2</sub>” x 3” with rounded nose (per side)</entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>List of nut and bolts used for the rear suspension of the Lotus Seven S4. </caption>
+</table>
+        
+      </section>
+      <section id="id4310666">
+        <title>Brakes</title>
+        <para id="id1169750446349">The front brakes were unchanged from the S3 Seven and used Girling trailing calipers. These were used in a wide range of British cars of the era (including the Triumph Spitfire), as well as many low budget formula cars, such as the Formula Fords. The brakes were hydraulically operated with 9” solid discs. The rear brakes are hydraulically operated 8<sup>1</sup>/<sub>2</sub>” drums incorporating a mechanical handbrake.</para></section>
+      <section id="id7417973">
+        <title>Steering</title>
+        <para id="id1169743650434">The Triumph Spitfire rack used in the Series 3 Seven was replaced with one sourced from Burman. The turning circle remained excellent with 2 <sup>3</sup>/<sub>4</sub> turns lock-to-lock. For the first time, the steering column was collapsible in a front impact as a safety feature. </para>
+      </section>
+    </section>
+    <section id="id3953735">
+      <title>Engine and transmission</title>
+      <para id="id1169761882388">As with the preceding Series 3 Seven, the S4 was offered with a selection of engines. The 1558 cc Lotus Twin Cam was the performance choice while the budget (and consequently most common) choice was the 1600 cc Ford crossflow Kent motor. A third offering was the 1300 cc Ford crossflow Kent engine. Unfortunately, the sump for the latter engine had the oil pan at the rear of the sump, which forced one of the chassis cross members to be simply removed. A limited number of these were actually sold. </para>
+      <section id="id1169760143452"><title>Lotus Twin Cam</title><para id="id1169748235937">The Lotus Twin Cam engine (<link target-id="id1169742748147"/> and <link target-id="id1169759811440"/>) was developed from the Ford 1498 cc 116E pre-crossflow engine block. Overbored and given a longer stroke crankshaft the capacity was raised to 1558 cc. Using twin Weber 40 DCOE carburetors (<link target-id="id1169761802649"/>) the Twin Cam model with 115 bhp in Special Equipment tune or as a Lotus-Holbay version 126 bhp (<link target-id="id1169754915593"/> and <link target-id="id1169762993741"/>). A summary of the specifications of the Special Equipment tune Twin Cam engine is given in <link target-id=" id1169760940896"/>. </para>
+
+        <figure id="id1169742748147">
+          <media id="id1169742748147_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics9-2468.jpg" id="id1169742748147__onlineimage" width="300" print-width="3in"/>
+          </media>
+<caption>The 1558 cc Lotus Twin Cam engine as used in the Seven S3 SS, Seven S4, Elan, Elan +2, Europa Twin Cam, and Lotus Cortina (<link url="http://www.burtonpower.com/">www.burtonpower.com</link>). </caption>
+        </figure>
+
+
+
+
+          <figure id="id1169759811440">
+            <media id="id1169759811440_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics10-7a9e.jpg" id="id1169759811440__onlineimage" width="300" print-width="3in"/>
+            </media>
+<caption>A cut away of the 1558 cc Lotus Twin Cam engine.</caption>
+          </figure>
+
+
+
+
+
+        <figure id="id1169761802649">
+          <media id="id1169761802649_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics11-1263.jpg" id="id1169761802649__onlineimage" width="300" print-width="3in"/>
+          </media>
+<caption>The Weber 40 DCOE sidedraught carburetor. </caption>
+        </figure>
+
+  
+
+
+
+      <figure id="id1169754915593"><media id="id1169754915593_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics12-b325.jpg" id="id1169754915593__onlineimage" width="400" print-width="3in"/>
+          </media>
+
+        <caption>The engine bay of a Twin Cam powered Seven S4 showing the air box.</caption></figure><figure id="id1169762993741">
+          <media id="id1169762993741_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics13-3aab.jpg" id="id1169762993741__onlineimage" width="400" print-width="4in"/>
+          </media>
+<caption>A cut-away drawing of the Twin Cam powered version of the Seven S4 with general technical data (Lotus Cars, Ltd.). </caption>
+        </figure>
+
+
+
+
+        <table id="id1169760940896" summary="Summary of engines used in the Lotus Seven S4.">
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Engine</emphasis></entry>
+                <entry><emphasis effect="bold">Lotus Twin Cam</emphasis></entry>
+                <entry><emphasis effect="bold">Ford Kent (1600 GT)</emphasis></entry>
+              </row>
+              <row>
+                <entry>Displacement (cc)</entry>
+                <entry>1558</entry>
+                <entry>1599</entry>
+              </row>
+              <row>
+                <entry>Bore (mm)</entry>
+                <entry>82.55</entry>
+                <entry>80.98</entry>
+              </row>
+              <row>
+                <entry>Stroke (mm)</entry>
+                <entry>72.74</entry>
+                <entry>77.62</entry>
+              </row>
+              <row>
+                <entry>Compression ratio</entry>
+                <entry>9.5:1 or 10.3:1</entry>
+                <entry>9.0:1</entry>
+              </row>
+              <row>
+                <entry>Power (bhp)</entry>
+                <entry>105 to 120</entry>
+                <entry>84 (110)</entry>
+              </row>
+              <row>
+                <entry>Torque (lbs/ft @ rpm)</entry>
+                <entry>108 @ 4500 (113 @ 5500)</entry>
+                <entry>91 @ 5500 (105.5 @ 4800)</entry>
+              </row>
+              <row>
+                <entry>Oil pressure</entry>
+                <entry>35 - 40</entry>
+                <entry>35 - 40</entry>
+              </row>
+              <row>
+                <entry>Valve clearances</entry>
+                <entry>In 0.005, Ex 0.009</entry>
+                <entry>In 0.010, Ex 0.022</entry>
+              </row>
+              <row>
+                <entry>Carburetor</entry>
+                <entry>Twin Weber 40 DCOE sidedraught</entry>
+                <entry>Single Weber 32DFM twin choke downdraught</entry>
+              </row>
+            </tbody>
+          
+</tgroup><caption>Summary of engines used in the Lotus Seven S4. </caption>
+</table>
+        
+        </section>
+
+<section id="id3633032"><title>The Ford crossflow Kent </title><para id="id1169764087880">Ford introduced the 105E Kent engine in 1959 in a number of displacements: 997 cc, 1198 cc, 1340 cc, and 1500 cc. All of these early Kent engines had both inlet and exhaust valves on the same side of the head. In 1967 Ford redesigned the head as a crossflow unit creating the definitive 1300 cc and 1600 cc engines (<link target-id="id2163037"/>). In 1970 Ford further improved the block making it stronger and more suitable for tuning and racing applications. These blocks are designated by their “711M” numbering. As used in the Seven the 1600 cc engine was essentially that from the Ford Cortina GT and used a standard Ford intake manifold with a single Weber 32DFM twin choke downdraught carburetor (<link target-id="id4198139"/> and <link target-id="id4516181"/>). A summary of the specifications of the Cortina GT tune Ford crossflow Kent engine are given in <link target-id=" id1169760940896"/>.</para>
+
+
+
+            <figure id="id2163037">
+              <media id="id2163037_media" alt="">
+                <image mime-type="image/jpg" src="../../media/graphics14-9ce9.jpg" id="id2163037__onlineimage" width="300" print-width="3in"/>
+              </media>
+
+<caption>The Ford Kent 1600 cc crossflow engine (<link url="http://www.burtonpower.com/">www.burtonpower.com</link>). </caption>
+            </figure>
+
+
+
+
+          
+
+          <figure id="id4198139"><media id="id4198139_media" alt="">
+              <image mime-type="image/jpg" src="../../media/graphics16-5833.jpg" id="id4198139__onlineimage" width="300" print-width="2.5in"/>
+            </media>
+
+          <caption>The Weber 32DFM twin choke downdraught carburetor. Copyright: Pegasus Auto Racing. </caption></figure><figure id="id4516181"><media id="id4516181_media" alt="">
+                <image mime-type="image/jpg" src="../../media/graphics17-acfe.jpg" id="id4516181__onlineimage" width="400" print-width="3in"/>
+              </media>
+
+            <caption>The engine bay of a 1600 cc crossflow powered Seven S4 showing the pancake air filter. This example is in need of restoration. </caption></figure></section>
+      <section id="id4423445"><title>Gearbox, clutch, and bellhousing</title><para id="id4468091">As with the S2 and S3 Seven, the Ford Mark 2 Cortina GT/Corsair 2000E gearbox was employed. More correctly known as the 2821E, it is a semi-close ratio 4-speed all synchromesh gearbox (<link target-id=" id3888067"/>), with synchromesh on all forward gears. Since it was also used in the Lotus Elan it meant a commonality of supply for Lotus Cars and Lotus Components. </para>
+
+        <table id="id3888067" summary="Gear ratios for Ford 2000E Corsair gearbox as used in the Lotus Seven S4.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <tbody>
+              <row>
+                <entry><emphasis effect="bold">Gear</emphasis> </entry>
+                <entry><emphasis effect="bold">Gear ratio</emphasis></entry>
+              </row>
+              <row>
+                <entry>1</entry>
+                <entry>2.97 : 1</entry>
+              </row>
+              <row>
+                <entry>2</entry>
+                <entry>2.01 : 1</entry>
+              </row>
+              <row>
+                <entry>3</entry>
+                <entry>1.40 : 1</entry>
+              </row>
+              <row>
+                <entry>4</entry>
+                <entry>1 : 1</entry>
+              </row>
+              <row>
+                <entry>Reverse</entry>
+                <entry>3.32 : 1</entry>
+              </row>
+            </tbody>
+          
+
+
+
+</tgroup><caption>Gear ratios for Ford 2000E Corsair gearbox as used in the Lotus Seven S4. </caption>
+</table><para id="id1169751073667">As fitted to the Seven (and Ford’s own Corsair and Cortina) the gearbox was used with a separate remote control assembly (<link target-id="id1169742607636"/>). The three-rail selector mechanism was later replaced by a single selector rail; however, since this requires modification to be used in the Seven it was not adopted. </para>
+
+
+          <figure id="id1169742607636"><media id="id1169742607636_media" alt="">
+              <image mime-type="image/jpg" src="../../media/2000E.jpg" id="id1169742607636__onlineimage" width="400" print-width="3in"/>
+            </media>
+
+          <caption>The Ford Mark 2 Cortina GT/Corsair 2000E (2821E) gearbox (<link url="http://www.burtonpower.com/">www.burtonpower.com</link>). </caption></figure><para id="id1169751949487">The 2821E gearbox uses a separate bellhousing that is interchangeable between crossflow and Twin Cam engines because they have common bolt patterns. The flywheels and clutches are also interchangeable within the Kent range of engines. However, since the Crossflow power Seven S4 retained the bellhousing for the Twin Cam, it is necessary to fit an additional spacer for the release bearing. </para>
+      </section>
+    </section>
+    <section id="id1169752440525"><title>Interior</title><para id="id4091315">The interior of the S4 was a great improvement over that of the S3 Seven. In particular it offered more space and allowed taller drivers to fit, although the pedals were still tight. The dashboard was either painted to give a leather grain finish, left in body color or sprayed matt black (<link target-id="id3621993"/>). </para>
+
+      <figure id="id3621993"><media id="id3621993_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics19-e805.jpg" id="id3621993__onlineimage" width="400" print-width="3in"/>
+        </media>
+
+      <caption>A well-worn interior for a Lotus Seven S4. </caption></figure><para id="id1169762042588">The seats were the same as fitted in the Europa, but without a headrest. They are made of hardboard covered in foam and black vinyl. In contrast to the bare metal finish of the S3 Seven, the S4 had a properly fitted black carpet and a vinyl transmission tunnel cover to match the seats (<link target-id="id3621993"/>). </para>
+
+
+      <para id="id1169761443247">The dashboard layout for the S4 included a full range of Smiths gauges (<link target-id="id3581183"/>), including: </para>
+      <list id="id1169754596803" list-type="bulleted">
+        <item>Speedometer. </item>
+        <item>Tachometer. </item>
+        <item>Oil pressure. </item>
+        <item>Water temperature.</item>
+        <item>Ammeter. </item>
+        <item>Fuel gauge.</item>
+      </list>
+      <para id="id3866574">Four rocker switches controlled the lights, heater fan (optional), 2 speed windscreen wiper, and windscreen washer (optional), while the indicator switch and headlight dip switches were located in the “normal” position as storks on the steering column for the first time for a Seven. The horn push was located in the center of the steering wheel. The steering wheel was a 13” alloy spoke wheel (smaller than used in the S3) with PVC rim (<link target-id="id3581183"/>). The design was the same as used in the contemporary Elan and Europa.</para>
+
+      <figure id="id3581183"><media id="id3581183_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics20-1e4c.jpg" id="id3581183__onlineimage" width="400" print-width="3in"/>
+        </media>
+
+      <caption>A view of the dash of a Seven S4.</caption></figure></section>
+    <section id="id1752085"><title>Weather equipment </title><para id="id1169744958122">The weather equipment was one area that the S4 Seven came in for universal praise. While not offering complete drip-free driving (no Seven has ever achieved this), the roof offered reasonable weather protection. As designed by Weathershields of Birmingham the major improvement over previous Sevens was the fitment of sliding Perspex window panels (<link target-id="id1169752729286"/>). Another first for a Seven was the option of a stylish hardtop (<link target-id="id1169755257632"/>). </para>
+
+      <figure id="id1169752729286"><media id="id1169752729286_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics21-cbec.jpg" id="id1169752729286__onlineimage" width="400" print-width="3in"/>
+        </media>
+
+      <caption>A later Twin Cam powered S4, fitted with the universal bonnet incorporating a bonnet bulge, showing the side screens with the sliding Perspex windows. </caption></figure><figure id="id1169755257632"><media id="id1169755257632_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics22-5872.jpg" id="id1169755257632__onlineimage" width="400" print-width="3in"/>
+        </media>
+
+      <caption>A Seven S4 fitted with the rare factory hard top.</caption></figure></section>
+    <section id="id4401487"><title>Wheels and tires</title><para id="id1169759143817">The S4 Seven was provided standard with 5 <sup>1</sup>/<sub>2</sub>" x 13" pressed steel 'bolt-on' rims with chromium plated hub-caps (<link target-id="id4348221"/>). As an upgrade 5<sup>1</sup>/<sub>2</sub>" x 13" light alloy 'bolt-on' Brand Lotus rims were available at extra cost (<link target-id="id1169745835415"/>). Both wheels were supplied with either 165 x 13” Dunlop SP Sport or Goodyear G800 radial tires as standard.</para>
+
+
+        <figure id="id1169745835415"><media id="id1169745835415_media" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics23-c369.jpg" id="id1169745835415__onlineimage" width="400" print-width="3in"/>
+          </media>
+
+        <caption>A view of the Brand Lotus wheels as fitted to the Seven S4. </caption></figure></section>
+    <section id="id3897509">
+      <title>Dimensions </title>
+      <para id="id1169747736005">A summary of the dimensions of the Seven S4 is given in <link target-id=" id3986264"/>. </para>
+      <table id="id3986264" summary="Summary of official dimensions for the Lotus (Type 60) Seven S4.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <tbody>
+            <row>
+              <entry>Overall length</entry>
+              <entry>146.3"</entry>
+            </row>
+            <row>
+              <entry>Overall width </entry>
+              <entry>60.5"</entry>
+            </row>
+            <row>
+              <entry>Overall height (top of hood) </entry>
+              <entry>44.0"</entry>
+            </row>
+            <row>
+              <entry>Overall height (top of screen) </entry>
+              <entry>41.5"</entry>
+            </row>
+            <row>
+              <entry>Ground clearance</entry>
+              <entry>6.5”</entry>
+            </row>
+            <row>
+              <entry>Wheelbase</entry>
+              <entry>91.0”</entry>
+            </row>
+            <row>
+              <entry>Front track </entry>
+              <entry>48.8"</entry>
+            </row>
+            <row>
+              <entry>Rear track </entry>
+              <entry>51.5"</entry>
+            </row>
+            <row>
+              <entry>Ground clearance </entry>
+              <entry>6.5".</entry>
+            </row>
+            <row>
+              <entry>Front wheel toe-in</entry>
+              <entry>0 – <sup>1</sup>/<sub>16</sub> “</entry>
+            </row>
+            <row>
+              <entry>Front camber angle</entry>
+              <entry>0°</entry>
+            </row>
+            <row>
+              <entry>Front castor angle</entry>
+              <entry>5°</entry>
+            </row>
+            <row>
+              <entry>Laden weight </entry>
+              <entry>1310 lbs (Twin Cam), 1276 lbs (1600 GT)</entry>
+            </row>
+            <row>
+              <entry>Weight distribution</entry>
+              <entry>56.1/43.9% (Twin Cam), 48.5/51.5% (1600 GT)</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Summary of official dimensions for the Lotus (Type 60) Seven S4. </caption>
+</table>
+      
+    </section>
+    <section id="id1169755086781">
+      <title>Performance</title>
+      <para id="id1169744955382"><link target-id=" id4327429"/> summarizes the performance data from contemporary car magazine tests for both the Ford 1600 GT (crossflow) and Lotus Twin Cam powered cars. </para>
+      <table id="id4327429" summary="Selected performance figures for Lotus Seven S4 from contemporary magazine road tests.">
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry><emphasis effect="italics"><emphasis effect="bold">Test source</emphasis> </emphasis></entry>
+              <entry><emphasis effect="italics"><emphasis effect="bold">Motor</emphasis> </emphasis> </entry>
+              <entry><emphasis effect="italics"><emphasis effect="bold">Car and Driver</emphasis> </emphasis></entry>
+              <entry><emphasis effect="italics"><emphasis effect="bold">Sports Car World</emphasis> </emphasis> </entry>
+            </row>
+            <row>
+              <entry>Test date</entry>
+              <entry>1970</entry>
+              <entry>1971</entry>
+              <entry>1974</entry>
+            </row>
+            <row>
+              <entry>Engine</entry>
+              <entry>1600 GT</entry>
+              <entry>Lotus Twin Cam</entry>
+              <entry>Lotus Twin Cam</entry>
+            </row>
+            <row>
+              <entry>0 - 30 mph </entry>
+              <entry>3.0 sec</entry>
+              <entry>2.6 sec</entry>
+              <entry>3.9 sec</entry>
+            </row>
+            <row>
+              <entry>0 - 40 mph</entry>
+              <entry>4.5 sec</entry>
+              <entry>4.2 sec</entry>
+              <entry>5.0 sec</entry>
+            </row>
+            <row>
+              <entry>0 - 50 mph</entry>
+              <entry>6.3 sec</entry>
+              <entry>6.0 sec</entry>
+              <entry>6.7 sec</entry>
+            </row>
+            <row>
+              <entry>0 - 60 mph</entry>
+              <entry>8.8 sec</entry>
+              <entry>8.7 sec</entry>
+              <entry>8.8 sec</entry>
+            </row>
+            <row>
+              <entry>0 - 70 mph</entry>
+              <entry>11.8 sec</entry>
+              <entry>11.4 sec</entry>
+              <entry>11.4 sec</entry>
+            </row>
+            <row>
+              <entry>0 - 80 mph</entry>
+              <entry>16.0 sec</entry>
+              <entry>14.8 sec</entry>
+              <entry>15.0 sec</entry>
+            </row>
+            <row>
+              <entry>0 - 90 mph </entry>
+              <entry>24.2 sec</entry>
+              <entry>19.0 sec</entry>
+              <entry>21.2 sec</entry>
+            </row>
+            <row>
+              <entry>0 - 100 mph </entry>
+              <entry>n/a</entry>
+              <entry>24.5 sec</entry>
+              <entry>n/a</entry>
+            </row>
+            <row>
+              <entry>Standing ¼ mile </entry>
+              <entry>16.0 sec</entry>
+              <entry>15.8 sec </entry>
+              <entry>16.0 sec</entry>
+            </row>
+            <row>
+              <entry>Top speed</entry>
+              <entry>108.5 mph</entry>
+              <entry>116 mph</entry>
+                   <entry>n/a</entry>
+            </row>
+            <row>
+              <entry>80-0 mph</entry>
+              <entry>n/a</entry>
+              <entry>247 ft (0.86 G)</entry>
+                  <entry>n/a</entry>
+            </row>
+            <row>
+              <entry>Fuel mileage</entry>
+              <entry>26.3 mpg</entry>
+              <entry>14 – 16 mpg</entry>
+                 <entry>n/a</entry>
+            </row>
+            <row>
+              <entry>Cruising range</entry>
+              <entry>n/a</entry>
+              <entry>105 – 120 miles</entry>
+        <entry>n/a</entry>
+            </row>
+          </tbody>
+        
+</tgroup><caption>Selected performance figures for Lotus Seven S4 from contemporary magazine road tests.</caption>
+</table>
+      
+    </section>
+    <section id="id1169754525104">
+      <title>Chassis numbering</title>
+      <para id="id4322959">The initial batches of the Lotus Seven S4 were built by Lotus Components and started with the chassis number S4/2650. Subsequent to the winding down of Lotus Components, the cars were built by the main Lotus Cars factory. Left hand drive cars were given the prefix <emphasis effect="italics">LBS4</emphasis> or <emphasis effect="italics">LS4</emphasis>. The total number is uncertain since there appears to be a gap in the chassis numbering between 3238 and 3299.  Upon transfer of production to Caterham cars thirty seven cars were built; however, Caterham assembled most of these from Lotus leftover cars rather than new manufacturing. 
+</para></section>
+    <section id="id1169754354447">
+      <title>Bibliography</title>
+      <list id="id1169746445493" list-type="bulleted"><item>Lotus Seven Register (<link url="http://www.lotus7register.co.uk/"><emphasis effect="underline">www.lotus7register.co.uk</emphasis></link>). </item>
+
+
+
+
+
+<item>J. Coulter, <emphasis effect="italics">Lotus Seven</emphasis>, Amadeus Press (1995). </item>
+
+
+        <item>A. Morland, <emphasis effect="italics">Lotus Seven</emphasis>, Osprey Automotive Publishing (1994). </item>
+        <item>D. Ortenburger, <emphasis effect="italics">Legend of the Lotus Seven</emphasis>, Mercian Press (1987). </item>
+        <item>C. Rees, <emphasis effect="italics">The Magnificent 7</emphasis>, Haynes Publishing (2002). </item>
+        <item>W. Taylor, <emphasis effect="italics">The Lotus Book</emphasis>, Coterrie Press (1998). </item>
+        <item>T. Weale, <emphasis effect="italics">Lotus Seven</emphasis>, Osprey Automotive Publishing, UK (1991). </item>
+      </list></section>
+  </content>
+</document>

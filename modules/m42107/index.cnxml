@@ -1,0 +1,82 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Restoration of the Fuel Tank</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m42107</md:content-id>
+  <md:title>Restoration of the Fuel Tank</md:title>
+  <md:abstract/>
+  <md:uuid>94d05b88-ecf5-4750-899c-00e9d6fece42</md:uuid>
+</metadata>
+
+<content>
+    <para id="id1167100110656">The Lotus Seven S4 (Type 60) was fitted with a 7<sup>1</sup>/<sub>2</sub>  gallons (34 L, 9 gal US) steel petrol tank. It is held in place by two bolts (which run through holes in flanges at the lower lip of the ends of the tank) and by two bolts that are also used for mounting the body. The tank shows some fire damage with removal of paint towards the cockpit side (see <link target-id="id1167089170385"/>). In addition, the fuel gauge sender unit has been subjected to sufficient heat to melt the connectors (<link target-id=" id1167103801885"/>). </para><figure id="id1167089170385"><media id="id1167089170385_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-9b6a.jpg" id="id1167089170385__onlineimage" width="400" print-width="3in"/>
+      </media>
+    <caption>The fuel tank after removal from the chassis. </caption></figure>
+    
+    <figure id="id1167103801885"><media id="id1167103801885_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics2-844e.jpg" id="id1167103801885__onlineimage" width="400" print-width="3in"/>
+      </media>
+    <caption>The remains of the fuel gauge sender unit on the top of the fuel tank. </caption></figure>
+    
+    <para id="id1167081848885">The fuel gauge sender was removed in order to ascertain potential damage. Upon inspection, it was decided to replace the mechanicals, connectors, and the float, in order to simplify refitting, because the replacement sender required a different mounting bracket. Replacement fuel tank sender units are available for Smiths gauges from APT Instruments (Bloomington, MN). <link target-id=" id1167090897520"/> shows the rebuilt sender unit. The tank was then restored and rebuilt by Lucas Racing and Restoration (Houston, TX). </para><figure id="id1167090897520">
+        <media id="id1167090897520_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics3-bc8f.jpg" id="id1167090897520__onlineimage" width="400" print-width="3in"/>
+        </media>
+<caption>Rebuilt fuel gauge sender unit showing the external electrical connector (A) and the new plastic float (B). </caption>
+      </figure>
+
+    
+    <para id="id1167093470626">Once the sender was removed, along with the old rubber hoses, the outside of the tank was media blasted to remove all the paint and reveal any defects (<link target-id=" id1167086775545"/> and <link target-id=" id1167103094499"/>). Of which none were apparent, and thus the decision was made to reuse the tank. </para>
+
+
+    <figure id="id1167086775545"><media id="id1167086775545_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics4-c1ca.jpg" id="id1167086775545__onlineimage" width="400" print-width="3in"/>
+      </media>
+    <caption>The fuel tank after removal of the hoses and fuel sender and media blasting, should be compared to the original condition shown in <link target-id="id1167089170385"/>. </caption></figure>
+    
+
+      <figure id="id1167103094499">
+        <media id="id1167103094499_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics5-006e.jpg" id="id1167103094499__onlineimage" width="400" print-width="3in"/>
+        </media>
+<caption>A view of the fuel sender location and the fuel pick-up connector (A). </caption>
+      </figure>
+
+
+
+
+    <para id="id1167099241862">After thorough cleaning the tank was dried and then painted with black enamel. Refitting the rebuilt sender (<link target-id=" id1167087798444"/>) and hoses (<link target-id="id1167087559446"/> and <link target-id=" id1167100998742 "/>). </para>
+
+    <figure id="id1167087798444"><media id="id1167087798444_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics6-d66f.jpg" id="id1167087798444__onlineimage" width="400" print-width="3in"/>
+      </media>
+
+    <caption>The fuel tank after painting, and refitting the fuel sender and fitting new hoses. This should be compared to the original condition shown in <link target-id=" id1167089170385"/> and after media blasting (<link target-id=" id1167086775545"/>). </caption></figure>
+
+
+
+
+      <figure id="id1167087559446"><media id="id1167087559446_media" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics7-8ff5.jpg" id="id1167087559446__onlineimage" width="400" print-width="3in"/>
+        </media>
+      <caption>Close-up view of the fuel sender refitted into the tank. </caption></figure>
+
+    
+    <figure id="id1167100998742"><media id="id1167100998742_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics8-ae36.jpg" id="id1167100998742__onlineimage" width="400" print-width="3in"/>
+      </media>
+    <caption>Close-up view of the new fuel inlet hose. </caption></figure>
+    
+    <section id="id1167097847263">
+      <title>Resources</title>
+      <list id="id1167092388643" list-type="bulleted"><item>Lucas Racing and Restoration, 10030 Talley Lane, Houston, Texas 77041, USA. Tel: +1 713 462 0068. <link url="http://www.lucasracinginc.com/">www.lucasracinginc.com</link>. </item>
+        <item>Gaugeguys dba APT Instruments, 9632 Humboldt Ave S, Bloomington, MN 55431, USA. Tel: +1 952 881 7095. <link url="http://www.gaugeguys.com/">www.gaugeguys.com</link>. </item>
+      </list></section>
+    <section id="id8831078">
+      <title>Bibliography</title>
+      <list id="id1167092941878" list-type="bulleted">
+        <item>J. Tipler, <emphasis effect="italics">Lotus and Caterham Seven: Racers for the Road</emphasis>, Crowood Auto Classic, UK (1995). </item>
+      </list>
+    </section>
+  </content>
+</document>

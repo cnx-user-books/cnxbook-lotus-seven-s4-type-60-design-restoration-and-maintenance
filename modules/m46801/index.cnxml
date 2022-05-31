@@ -1,0 +1,50 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>The Steering Rack</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m46801</md:content-id>
+  <md:title>The Steering Rack</md:title>
+  <md:abstract/>
+  <md:uuid>fde91733-d692-4e11-afcc-a7e5c2cbfef7</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-id1166404536388">For the Series 4 Lotus Seven the Triumph Spitfire rack previously used in the Series 3 was replaced with one sourced from Burman. The turning circle remained excellent with 2<sup>3</sup>/<sub>4</sub> turns lock-to-lock. </para>
+    <para id="import-auto-id1166403015094">The steering rack in LBS4/2894/GT appeared to be still functioning despite the rubber gaiters being destroyed (<link target-id="import-auto-id1166402999550"/>). However, the rubber mounts were beyond use and alternatives would be needed. The first approach was going to be reconditioning and rebuilding the rack. However, it was found that the threaded nut that holds the track rods into the rack body were stripped due to corrosion, and there was no way to remove them without cutting them. Thus, before drastic surgery was contemplated an alternative was investigated. </para><figure id="import-auto-id1166402999550"><media id="import-auto-id1166403007473" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-23ca.jpg" width="500" print-width="3in"/>
+      </media>
+    <caption>View of the steering rack and one of the original fire damaged rubber mounts. </caption></figure><para id="import-auto-id1166403031738">While this particular version of the rack is no longer available, it is essentially the same rack as used on the Mk1 and Mk2 Ford Escort. Since these were sold in vast numbers, there are new replacements available. <link target-id="import-auto-id1166403007417"/> shows the left hand drive 2.4 Ratio Escort Mk2 short stem steering rack available from Motorsport Tools, Ltd. (<link url="http://www.motorsport-tools.com/"><emphasis effect="underline">www.motorsport-tools.com</emphasis></link>). As may be seen by comparing <link target-id="import-auto-id1166402999550"/> and <link target-id="import-auto-id1166403007417"/> the racks are similar but with a difference in the steering column shaft (stem) length and potentially in the track rod lengths. However, both of these may be easily modified for the Seven S4 application. </para><figure id="import-auto-id1166403007417"><media id="import-auto-id1166402994757" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics2-f52f.jpg" width="500" print-width="3in"/>
+      </media>
+    <caption>View of as supplied brand new manufactured 2.4 ratio Escort Mk2 short stem steering rack. Copyright: Motorsport Tools, Ltd. (2011). </caption></figure><para id="import-auto-id1166403005997">The new rack was disassembled and the joint to the steering column and track rod ends adapted to the Seven S4 application by Lucas Racing and Restoration (<link url="http://www.lucasracinginc.com/"><emphasis effect="underline">www.lucasracinginc.com</emphasis></link>). </para>
+    <section id="import-auto-id1166403031765">
+      <title>Instillation</title>
+      <para id="import-auto-id1166403005993">The rack clamps were media blasted and then powdered coated by Custom Coatings (<link target-id="import-auto-id1166403011474"/>). While suitable rubber mounts are available from Motorsport Tools, Ltd., it was decided to use Polyrace steering rack bushes mounts from the same source (<link target-id="import-auto-id1166403011474"/>). </para><figure id="import-auto-id1166403011474"><media id="import-auto-id1166403011478" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics3-61ef.jpg" width="500" print-width="3in"/>
+        </media>
+      <caption>View of the rack clamps after media blasting and powder coating and the new Polyrace steering rack mounts. </caption></figure><para id="import-auto-id1166403015031">The Polyrace bushes were positioned on the rack and the rack bolted to the repaired mount (<link target-id="import-auto-id1166403015035"/>). The bolts were tightened down sequentially to ensure an even </para><figure id="import-auto-id1166403015035"><media id="import-auto-id1166403015036" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics4-ae04.jpg" width="500" print-width="3in"/>
+        </media>
+      <caption>View of the new rack bolted into the chassis. </caption></figure><section id="import-auto-id1166402995461">
+        <title>Track rod ends (steering arms)</title>
+        <para id="import-auto-id1166402995465">The original track rod ends were badly damaged in the fire and so new units were purchased from Motorsport Tools, Ltd. (<link target-id="import-auto-id1166402995468"/>). While the final alignment will be performed once the car is complete, it was decided to roughly align in order to ease movement of the car. As a consequence no lock nuts were used for the track rod ends. </para><figure id="import-auto-id1166402995468"><media id="import-auto-id1166402995469" alt="">
+            <image mime-type="image/jpg" src="../../media/graphics5-fa09.jpg" width="500" print-width="3in"/>
+          </media>
+        <caption>View of replacement track rod end. </caption></figure></section>
+      </section>
+    <section id="import-auto-id1166402994790">
+      <title>Resources</title>
+      <list id="import-auto-id1166403003937" list-type="bulleted">
+        <item>Motorsport Tools UK Ltd., Llithfaen, Pwllheli, Gwynedd, LL53 6NH, Wales, UK. Tel: +44 (0)175 8750000. <link url="http://www.motorsport-tools.com/"><emphasis effect="underline">http://www.motorsport-tools.com</emphasis></link>. </item>
+        <item>Lucas Racing and Restoration, 10030 Talley Lane, Houston, Texas 77041, USA. Tel: +1 713 462 0068. <link url="http://www.lucasracinginc.com/"><emphasis effect="underline">www.lucasracinginc.com</emphasis></link>. </item>
+        <item>Custom Coatings, 16219 Dundee, Cypress, TX 77429, USA. Tel: +1 281 813 0119. </item>
+      </list>
+    </section>
+    <section id="import-auto-id1166403007509">
+      <title>Bibliography</title>
+      <list id="import-auto-id1166403007512" list-type="bulleted"><item>D. Ortenburger, <emphasis effect="italics">Legend of the Lotus Seven</emphasis>, Mercian Press (1987).  </item>
+
+<item>J. Coulter, <emphasis effect="italics">Lotus Seven</emphasis>, Amadeus Press (1995). </item>
+      
+      </list></section>
+  </content>
+</document>

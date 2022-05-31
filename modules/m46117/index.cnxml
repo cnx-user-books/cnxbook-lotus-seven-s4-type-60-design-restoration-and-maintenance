@@ -1,0 +1,191 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Engine Rebuild</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m46117</md:content-id>
+  <md:title>Engine Rebuild</md:title>
+  <md:abstract/>
+  <md:uuid>c843b035-a9e4-4242-8b04-a2d2b8814e65</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-id6009789">For those wishing to complete the task themselves, the best guide is the book by Peter and Valerie Wallage, <emphasis effect="italics">Rebuilding and Tuning Ford's Kent Crossflow Engine</emphasis>. This is a great book for anyone interested in the Kent motors. I have previously used this as a guide in rebuilding a race motor for a 1969 Lotus Type 61 Formula Ford. In addition, Jake Lamont and Tom Andresen’s book entitled <emphasis effect="italics">How to Build and Maintain Competitive (yet legal) Formula Ford 1600 Engines</emphasis>, is a useful source, although more limited to Formula Ford motors to Sports Car Club of America (SCCA) racing rules. In the present case, for time limitations, it was decided to have the engine rebuilt by Farley Engines, Inc. The company owner, Curtis Farley, is one of the most respected names in building racing and performance engines in the US. </para><section id="import-auto-id1166167095274">
+      <title>Disassembly</title>
+      <para id="import-auto-id1166166815552"><link target-id="import-auto-id1166171297475 "/> shows the engine after removal from the chassis. Prior to shipping the engine to Farley Engines some preliminary stripping was required for shipping. The oil pump and filter bracket was destroyed as a result of the distributor melting onto it (<link target-id="import-auto-id1166162468197 "/>): it was therefore, removed (<link target-id="import-auto-id1166159574226"/> and <link target-id="import-auto-id1166167872153"/>). </para><figure id="import-auto-id1166171297475"><media id="import-auto-id1166167021353" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics1-cc06.jpg" width="400" print-width="3in"/>
+        </media>
+      <caption>Engine after removal from the chassis. </caption></figure><figure id="import-auto-id1166162468197"><media id="import-auto-id7577600" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics2-7bb7.jpg" width="400" print-width="3in"/>
+        </media>
+      <caption>View of the original oil pump with the remains of the molten distributor. </caption></figure><figure id="import-auto-id1166159574226"><media id="import-auto-id1166151995741" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics3-a8d5.jpg" width="400" print-width="3in"/>
+        </media>
+      <caption>View of the original oil pump. </caption></figure><figure id="import-auto-id1166167872153"><media id="import-auto-id1166151891050" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics4-4e2b.jpg" width="400" print-width="3in"/>
+        </media>
+      <caption>Removed oil pump. </caption></figure><para id="import-auto-id1166151114628">The thermostat housing (<link target-id="import-auto-id1166155985219"/>) was badly corroded to it was removed, as was the thermostat itself (<link target-id="import-auto-id8371093"/> and <link target-id="import-auto-id5291757"/>). The corrosion of the water passage was no more than expected from and engine of this age, offering hope that no internal damage had been done by the fire. </para><figure id="import-auto-id1166155985219"><media id="import-auto-id1166163884715" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics5-c85b.jpg" width="400" print-width="3in"/>
+        </media>
+      <caption>View of the thermostat housing. </caption></figure><figure id="import-auto-id8371093"><media id="import-auto-id1166150331427" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics6-5e69.jpg" width="300" print-width="2.25in"/>
+        </media>
+      <caption>View of the thermostat. </caption></figure><figure id="import-auto-id5291757"><media id="import-auto-id1166151185028" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics7-7c92.jpg" width="300" print-width="2.25in"/>
+        </media>
+      <caption>View inside the water channel in the head. </caption></figure><para id="import-auto-id1166151157678">Disassembly of the engine indicated that at some point in its history it had been head ported (<link target-id="import-auto-id1166164721770"/>) with dual valve springs installed (<link target-id="import-auto-id1166153508263"/>). In addition, +.020 pistons had been fitted and a high lift cam. All of these modifications would have significantly increased the power over the stock Cortina motor. Interestingly a lightweight alloy flywheel had also been fitted in place of the standard unit. </para><figure id="import-auto-id1166164721770"><media id="import-auto-id1166153067083" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics8-58fb.jpg" width="400" print-width="3in"/>
+        </media>
+      <caption>View of the original head and rocker shaft. Copyright: Curtis Farley (2013). </caption></figure><figure id="import-auto-id1166153508263"><media id="import-auto-id1166164640863" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics9-2bf1.jpg" width="400" print-width="3in"/>
+        </media>
+      <caption>View of the double valve springs. Copyright: Curtis Farley (2013).</caption></figure><para id="import-auto-id1166160851515">It was known that the carburetor had melted and run down the intake manifold. Removal of the manifold showed that some molten metal had run into the engine past at least one of the intake valves (<link target-id="import-auto-id1166171335308"/>). One result of the complete tear-down was that it was possible to see the location where the molten aluminum from the carburetor had flowed through the intake valve and onto the piston (<link target-id="import-auto-id1166165990738"/> and <link target-id="import-auto-id1166153481615"/>). </para><figure id="import-auto-id1166171335308"><media id="import-auto-id6010409" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics10-5cff.jpg" width="400" print-width="3in"/>
+        </media>
+      <caption>View inside the intake. </caption></figure><figure id="import-auto-id1166165990738"><media id="import-auto-id1166157753118" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics11-77aa.jpg" width="400" print-width="3in"/>
+        </media>
+      <caption>View of one of the pistons and one of the intake valves showing the residual aluminum metal from the melted Weber carburetor. Copyright: Curtis Farley (2013). </caption></figure><figure id="import-auto-id1166153481615"><media id="import-auto-id1166152891144" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics12-40d8.jpg" width="400" print-width="3in"/>
+        </media>
+      <caption>View of one of the pistons and one of the intake valves after removal of the aluminum metal from the melted Weber carburetor. Copyright: Curtis Farley (2013). </caption></figure></section>
+    <section id="import-auto-id1166150369796">
+      <title>New and replacement parts</title>
+      <para id="import-auto-id1166164641900">In addition to a complete rebuild of the block and head, several components were replaced by either new or used items. Since the 1600 Ford crossflow engine installed in my 1969 Lotus Seven S3 had been converted to dry-sump for racing several components were known to be in good working order and used for the present engine. The replacement items included: </para><list id="import-auto-id1166159598532" list-type="bulleted">
+        <item>Oil pump. </item>
+        <item>Water pump and pulley. </item>
+        <item>Sump. </item>
+        <item>Oil strainer and suction pipe. </item>
+        <item>Weber 32DFM twin choke downdraught carburetor. </item>
+      </list>
+      <para id="import-auto-id1166151984226">In addition, the mechanical fuel pump was to be replaced by an electric item so a blanking plate sourced from Dave Bean Engineering. The reason for replacing the sump was that while the external dimensions are the same as the original, the one used on the Seven S3 had baffles welded inside to minimize oil surge (<link target-id="import-auto-id1166158805320"/> and <link target-id="import-auto-id5996302"/>). Even though it is intended that the Seven S4 were to be used for the street (rather than racing) the additional baffling should provide added protection for the engine against oil starvation. </para><figure id="import-auto-id1166158805320"><media id="import-auto-id8317990" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics13-64a1.jpg" width="400" print-width="3in"/>
+        </media>
+      <caption>Replacement sump showing the additional baffling. This was originally used for the 1969 Lotus Seven S3 prior to conversion to dry sump. </caption></figure><figure id="import-auto-id5996302"><media id="import-auto-id1166164640956" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics14-dcfe.jpg" width="400" print-width="3in"/>
+        </media>
+      <caption>Close up view of the baffles inside the replacement sump. </caption></figure><para id="import-auto-id1166166685574">Finally, the intake manifold had been significantly damaged due to the carburetor melting through it (<link target-id="import-auto-id7574491"/>). An unused manifold was amongst the spares when I purchased the Lotus Type 61 Formula Ford (also shown in <link target-id="import-auto-id7574491"/>). At some time the manifold had been port matched to the engine and significantly flowed. Unfortunately, the previous owner had used the car for auto-cross (auto testing) in which the regulations are different from Monoposto (<link url="http://www.monoposto.com/"><emphasis effect="underline">www.monoposto.com</emphasis></link>) and SCCA (<link url="http://www.scca.org/"><emphasis effect="underline">www.scca.org</emphasis></link>) Formula Ford racing in which such modifications are not allowed. However, there is no issue with its use for the street, and it was decided to use this as a direct replacement although any power gain will be negligible. </para><figure id="import-auto-id7574491"><media id="import-auto-id1166150526394" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics16-afff.jpg" width="400" print-width="3in"/>
+        </media>
+      <caption>The original and replacement intake manifolds. </caption></figure></section>
+    <section id="import-auto-id1166161181218">
+      <title>Upgrades</title>
+      <para id="import-auto-id1166161385160">Since the engine was an original Cortina unit rather than the later upgraded unit, it was decided to upgrade the main caps. In addition, the need to run unleaded fuel meant that hardened valve seats were to be installed, while up-rated valves were fitted at the same time. The original camshaft was a higher performance item than stock; however, it was badly worn. So it was decided to replace it with a Kent Cams fast road cam (model BCF2). This had been previously used in the 1600 cc Kent engine used in my 1969 Seven S3. </para><para id="import-auto-id8018969">Due to the damage associated with the molten alloy flowing into the engine through the intake valves it was decided to bore the block for +.030 pistons by AE (Dave Bean Engineering). The lifters were reground and hardened by Elgin Industries (<link url="http://www.elginind.com/"><emphasis effect="underline">www.elginind.com</emphasis></link>). New valve springs were sourced from Burton Power (<link url="http://www.burtonpower.com/"><emphasis effect="underline">www.burtonpower.com</emphasis></link>). <link target-id="import-auto-id1166171468830"/> shows a view of the engine in progress, while <link target-id="import-auto-id1166155654578"/> shows a view of the head ready for instillation. </para><figure id="import-auto-id1166171468830"><media id="import-auto-id1166159540396" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics18-19e3.jpg" width="400" print-width="3in"/>
+        </media>
+      <caption>View of the bottom end of the engine during the rebuild. Copyright: Curtis Farley (2013).</caption></figure><figure id="import-auto-id1166155654578"><media id="import-auto-id1166151993126" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics19-0db9.jpg" width="400" print-width="3in"/>
+        </media>
+      <caption>A view of the reconditioned head and valves ready for fitting. Copyright: Curtis Farley (2013). </caption></figure></section>
+    <section id="import-auto-id1166161107629">
+      <title>Finished engine</title>
+      <para id="import-auto-id1166164939392">The finished engine is shown in <link target-id="import-auto-id1166160854197"/> – <link target-id="import-auto-id1166165217535"/>. The blanking plate for the fuel pump is shown in <link target-id="import-auto-id1166151188454"/>. </para><figure id="import-auto-id1166160854197"><media id="import-auto-id1166172129407" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics20-5e1e.jpg" width="400" print-width="3in"/>
+        </media>
+      <caption>View of the left hand side of the rebuilt engine. The exhaust ports are covered with tape to preclude contamination during shipping and storage. Note the top dead center (TDC) mark on the fly wheel. </caption></figure><figure id="import-auto-id1166161146252"><media id="import-auto-id1166163170603" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics21-ed1b.jpg" width="400" print-width="3in"/>
+        </media>
+      <caption>View of the top of the rebuilt engine showing the intake manifold, rocker cover and spark plugs. </caption></figure><figure id="import-auto-id1166165217535"><media id="import-auto-id1166157373712" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics22-c975.jpg" width="400" print-width="3in"/>
+        </media>
+      <caption>View of the right hand side of the rebuilt engine showing the oil pump, oil filter, and the 123 ignition system. </caption></figure><figure id="import-auto-id1166151188454"><media id="import-auto-id1166171704773" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics23-67c8.jpg" width="400" print-width="3in"/>
+        </media>
+      <caption>View of the blanking plate covering the original location of the mechanical fuel pump. </caption></figure><para id="import-auto-id1166155549335"><link target-id="import-auto-id1166169813172"/> shows a summary of the relevant measurements for the rebuilt engine. <link target-id="import-auto-id1166173125731"/> shows the dyno sheet for the finished engine, while the appropriate data is shown graphically in <link target-id="import-auto-id1166173150528"/>. </para><table id="import-auto-id1166169813172" summary="Specifications for finished Ford Cortina 1600 cc engine.">
+<tgroup cols="2"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+       
+          <tbody>
+
+
+           
+
+            <row>
+              <entry>Bore</entry>
+              <entry>3.221 in</entry>
+            </row>
+            <row>
+              <entry>Stoke</entry>
+              <entry>3.06 in</entry>
+            </row>
+            <row>
+              <entry>Displacement</entry>
+              <entry>1634.381 cc</entry>
+            </row>
+            <row>
+              <entry>Main bearing clearance</entry>
+              <entry>0.0025 in</entry>
+            </row>
+            <row>
+              <entry>Rod bearing clearance</entry>
+              <entry>0.002 in</entry>
+            </row>
+            <row>
+              <entry>Piston/cylinder clearance </entry>
+              <entry>0.004 in</entry>
+            </row>
+            <row>
+              <entry>Head gasket thickness (volume)</entry>
+              <entry>0.04 in (5.34 cc)</entry>
+            </row>
+            <row>
+              <entry>Compression ratio</entry>
+              <entry>9.56</entry>
+            </row>
+            <row>
+              <entry>Intake valve clearance</entry>
+              <entry>0.008</entry>
+            </row>
+            <row>
+              <entry>Exhaust valve clearance</entry>
+              <entry>0.013</entry>
+            </row>
+            <row>
+              <entry>Cam timing intake</entry>
+              <entry>106° ATDC</entry>
+            </row>
+            <row>
+              <entry>Cam timing exhaust</entry>
+              <entry>110° BTDC</entry>
+            </row>
+            <row>
+              <entry>Intake valve lift @ overlap</entry>
+              <entry>0.075 in</entry>
+            </row>
+            <row>
+              <entry>Exhaust lift @ overlap</entry>
+              <entry>0.06 in</entry>
+            </row>
+            <row>
+              <entry>Ignition timing</entry>
+              <entry>38° full advance</entry>
+            </row>
+          </tbody>
+        
+
+
+
+
+</tgroup><caption>Specifications for finished Ford Cortina 1600 cc engine. </caption>
+</table><figure id="import-auto-id1166173125731"><media id="import-auto-id1166173152290" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics24-a254.jpg" width="400" print-width="4in"/>
+        </media>
+      <caption>The dyno data. </caption></figure><figure id="import-auto-id1166173150528"><media id="import-auto-id1166173131438" alt="">
+          <image mime-type="image/jpg" src="../../media/graphics25-dab9.jpg" width="400" print-width="3in"/>
+        </media>
+      <caption>A graph showing the power and torque as a function of engine rpm. </caption></figure></section>
+    <section id="import-auto-id1166173124398">
+      <title>Resources</title>
+      <list id="import-auto-id1166173127163" list-type="bulleted"><item>Farley Engines, Inc., 14025 State Rte 92, Platte City, MO 64079, USA. Tel: +1 816 431 3550.</item>
+        <item>Burton Power, Ltd., 617-631 Eastern Avenue, Ilford, Essex, IG2 6PN, UK. Tel: +44 (0) 20 8518 9136. <link url="http://www.burtonpower.com/"><emphasis effect="underline">www.burtonpower.com</emphasis></link>. </item>
+        <item>Dave Bean Engineering, Inc., 636 E Saint Charles Street, Star Route 3, San Andreas, CA 95249. Tel: +1 209 754 5802. <link url="http://www.davebean.com/"><emphasis effect="underline">www.davebean.com</emphasis></link>. </item>
+        <item>Elgin Industries, Inc., 1100 Jansen Farm Drive, Elgin, IL 60123, USA. Tel: +1 800 323 6764. <link url="http://www.elginind.com/"><emphasis effect="underline">www.elginind.com</emphasis></link>. </item>
+        <item>Kent Performance Cams, Ltd., Units 1-7 Military Road, Shomcliffe Industrial Estate, Folkstone, Kent, CT20 3UJ, UK. Tel: +44 (0) 1303 248666. <link url="http://www.kentcams.com/"><emphasis effect="underline">www.kentcams.com</emphasis></link>. </item>
+      </list></section>
+    <section id="import-auto-id1166173153797">
+      <title>Bibliography</title>
+      <list id="import-auto-id1166173116990" list-type="bulleted">
+        <item>P. Wallage and V. Wallage, <emphasis effect="italics">Rebuilding and Tuning Ford's Kent Crossflow Engine</emphasis>, Haynes Publishing, Yeovil (1995). </item>
+        <item>J. Lamont and T. Andresen, <emphasis effect="italics">How to Build and Maintain Competitive (yet legal) Formula Ford 1600 Engines</emphasis>  (1999). </item>
+      </list>
+    </section>
+  </content>
+</document>

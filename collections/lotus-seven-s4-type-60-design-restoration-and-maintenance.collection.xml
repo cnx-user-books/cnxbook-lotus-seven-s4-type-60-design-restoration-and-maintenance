@@ -1,0 +1,152 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11418</md:content-id>
+    <md:title>Lotus Seven S4 (Type 60): Design, Restoration, and Maintenance </md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>94fb8e59-03e7-4b14-bc3b-a7965e79f2f5</md:uuid>
+<md:slug>lotus-seven-s4-type-60-design-restoration-and-maintenance</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Introduction</md:title>
+      <col:content>
+        <col:module document="m46096"/>
+        <col:module document="m46104"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>History and Development</md:title>
+      <col:content>
+        <col:module document="m37458"/>
+        <col:module document="m37138"/>
+        <col:module document="m37285"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Restoration Project</md:title>
+      <col:content>
+        <col:module document="m43470"/>
+        <col:module document="m36959"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Chassis</md:title>
+      <col:content>
+        <col:module document="m43410"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Suspension</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Front Suspension</md:title>
+          <col:content>
+            <col:module document="m38481"/>
+            <col:module document="m43494"/>
+            <col:module document="m43696"/>
+            <col:module document="m44909"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Rear Axle and Suspension</md:title>
+          <col:content>
+            <col:module document="m38547"/>
+            <col:module document="m44530"/>
+            <col:module document="m44577"/>
+          </col:content>
+        </col:subcollection>
+        <col:module document="m44899"/>
+        <col:module document="m46111"/>
+        <col:subcollection>
+          <md:title>Steering</md:title>
+          <col:content>
+            <col:module document="m46801"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Brakes</md:title>
+      <col:content>
+        <col:module document="m43453"/>
+        <col:module document="m44910"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Engine and Fuel System</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Engine</md:title>
+          <col:content>
+            <col:module document="m46117"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Carburetor</md:title>
+          <col:content>
+            <col:module document="m45292"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Fuel Tank and Fuel Line</md:title>
+          <col:content>
+            <col:module document="m42107"/>
+            <col:module document="m43495"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Exhaust System</md:title>
+          <col:content>
+            <col:module document="m45339"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Gearbox and Drivetrain</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Gearbox</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Drive Shaft</md:title>
+          <col:content/>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Body</md:title>
+      <col:content>
+        <col:module document="m45649"/>
+        <col:module document="m45759"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Electrical System</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Engine and Ignition</md:title>
+          <col:content/>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Lights</md:title>
+          <col:content/>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Interior</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Weather Protection</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Tuning and Running</md:title>
+      <col:content/>
+    </col:subcollection>
+  </col:content>
+</col:collection>
